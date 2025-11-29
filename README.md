@@ -1,7 +1,6 @@
 # Bioreactor Technical Analysis (BioTA)
 Technical analysis workflow development for yield prediction and optimisation in bioreactors for cultivated meat production.
-The motivation is to build on existing approaches by extending the modelling to couple with computational fluid dynamic models 
-or other sources of bioreactor performance characteristics and to utilise optimisation techniques to generate optimum yield predictions for variations in bioreactor architecture, geometry and operating conditions. 
+The motivation is to build on existing approaches by extending the modelling to couple with computational fluid dynamic models  or other sources of bioreactor performance characteristics and to utilise optimisation techniques to generate optimum yield predictions for variations in bioreactor architecture, geometry and operating conditions. 
 
 This work has been funded by the Good Food Institute (https.gfi.org) through their 2022 RFP.
 
